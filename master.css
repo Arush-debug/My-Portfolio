@@ -1,0 +1,140 @@
+@import url('https://fonts.googleapis.com/css2?family=Handlee&family=Patrick+Hand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Proza+Libre&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Handlee';
+  color: #40514E;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Dancing Script';
+  font-size: 5.625rem;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Patrick Hand';
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: bolder;
+  padding-bottom: 10px;
+}
+
+hr {
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto 100px auto
+}
+
+h3 {
+  font-family: 'Patrick Hand';
+  color: #11999E;
+}
+
+a {
+  color: #66BFBF;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  font-weight: bold;
+}
+
+p {
+  font-weight: bold;
+  line-height: 2;
+}
+
+.copyright {
+  color: #000000;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+.pro {
+  width: 30%;
+  margin: auto;
+}
+
+.end-div {
+  background-color: #FAF1E6;
+  position: relative;
+  padding: 50px 0 20px;
+}
+
+.contact-message {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.top-div {
+  background-color: #FAF1E6;
+  position: relative;
+  padding-top: 100px;
+}
+
+.mid-div {
+  margin: 100px 0;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 110px auto;
+  text-align: left;
+}
+
+.code {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.draw {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.right {
+  text-align: right;
+}
+
+.music {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.fball {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.btn {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: 'Handlee';
+  font-weight: bolder;
+  color: #000000;
+  font-size: 21px;
+  background: #FAF1E6;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #f0d5b4;
+  text-decoration: none;
+}
+
+#me {
+  width: 200px;
+  height: 200px;
+}
